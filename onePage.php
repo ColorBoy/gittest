@@ -4,8 +4,8 @@
 	}
 
 	$test=new one();
-	echo $test->name;
-
+	echo $test->name."<br>";
+	echo "1111";
 
 
 
